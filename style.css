@@ -1,0 +1,35 @@
+.header {
+    text-align: center;
+    height: 60px;
+    background-color: #D9C9F3; 
+    color: white;
+}
+
+.searchBar{
+    background-color: lightgray;
+}
+
+h2{
+   color: grey;
+}
+
+#weather {
+visibility: hidden;
+}
+
+.card-body{
+    background-color: #D9C9F3;
+    font-size: 25px;
+}
+
+.fiveDayList{
+    max-width: fit-content;
+}
+
+.card Day2, Day3, Day4, Day5{
+    max-width: fit-content;
+}
+
+.forecast{
+    display: flex;
+}
